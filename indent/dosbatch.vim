@@ -3,10 +3,10 @@
 " Version:	1
 " Last Change:	2009 May 14
 " Maintainer:	Geoff Wood (morska@yahoo.com)
-" 
+"
 " Very simple indenting for DOS batch files, just
-" - generally keep the indent of the previous line 
-" - if previous line is not a comment and has ( and no matching ), 
+" - generally keep the indent of the previous line
+" - if previous line is not a comment and has ( and no matching ),
 "   increase indent
 " - if this line starts with ), decrease indent
 "
